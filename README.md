@@ -1,6 +1,6 @@
-Proposal: School Discussion Platform
+# Proposal: School Discussion Platform
 
-Project Name
+## Project Name
 School Q&A and collaboration platform
 
 Project Overview
