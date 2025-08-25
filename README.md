@@ -25,3 +25,6 @@ Notice
 Get reminders for replies, mentions and announcements.
 Teachers/administrators control the review content.
 Suitable for smart phones, tablets and the web.
+
+
+UI Design: https://www.icloud.com/freeform-copy/3D5DBC75-AD1B-4F86-8AB1-5BC87BFA914B#Untitled_9
